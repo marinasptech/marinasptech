@@ -48,7 +48,7 @@
 ![Python](https://img.shields.io/badge/Python-2c0a14?style=for-the-badge&logo=python&logoColor=C9A96E)
 ![Java](https://img.shields.io/badge/Java-2c0a14?style=for-the-badge&logo=openjdk&logoColor=C9A96E)
 ![SQL](https://img.shields.io/badge/SQL-2c0a14?style=for-the-badge&logo=postgresql&logoColor=C9A96E)
-![C#](https://img.shields.io/badge/C%23-2c0a14?style=for-the-badge&logo=c-sharp&logoColor=C9A96E)
+
 
 <br/>
 
@@ -59,6 +59,7 @@
 ![REST API](https://img.shields.io/badge/REST_API-1a1a1a?style=flat-square&logo=swagger&logoColor=C9A96E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=C9A96E)
 ![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=c%2B%2B&logoColor=C9A96E)
+![C#](https://img.shields.io/badge/C%23-2c0a14?style=for-the-badge&logo=c-sharp&logoColor=C9A96E)
 
 <br/>
 
