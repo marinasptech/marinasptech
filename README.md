@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0018,50:7b1a3a,100:c9a96e&height=140&section=header&text=Marina%20Paixão&fontColor=C9A96E&fontSize=38&fontAlignY=55&animation=fadeIn&desc=backend%20%26%20fullstack%20developer&descAlignY=78&descSize=14&descColor=d4b896" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0018,50:7b1a3a,100:c9a96e&height=140&section=header&text=Marina%20Paix%C3%A3o&fontColor=C9A96E&fontSize=38&fontAlignY=55&animation=fadeIn&desc=backend%20%26%20fullstack%20developer&descAlignY=78&descSize=14&descColor=d4b896" alt="header" />
 
 <br/>
 
@@ -85,7 +85,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=marinasptech&theme=transparent&hide_border=true&ring=7b1a3a&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=d4b896&dates=d4b896&currStreakNum=C9A96E&sideNums=d4b896" />
+<img src="https://streak-stats.demolab.com?user=marinasptech&theme=dark&hide_border=true&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=d4b896&dates=d4b896&currStreakNum=C9A96E&sideNums=d4b896&background=00000000&stroke=7b1a3a" />
 
 <br/><br/>
 
