@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0018,50:7b1a3a,100:c9a96e&height=140&section=header&text=Marina%20Paix%C3%A3o&fontColor=C9A96E&fontSize=38&fontAlignY=55&animation=fadeIn&desc=backend%20%26%20fullstack%20developer&descAlignY=78&descSize=14&descColor=d4b896" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0018,50:7b1a3a,100:c9a96e&height=140&section=header&text=Marina&fontColor=C9A96E&fontSize=38&fontAlignY=55&animation=fadeIn&AlignY=78&descSize=14&descColor=d4b896" alt="header" />
 
 <br/>
 
